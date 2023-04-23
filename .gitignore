@@ -35,6 +35,15 @@ bower_components
 # node-waf configuration
 .lock-wscript
 
+# EverShop config
+config/
+
+# Evershop media
+media/
+
+# Evershop build
+.evershop/
+
 # Compiled binary addons (https://nodejs.org/api/addons.html)
 build/Release
 
