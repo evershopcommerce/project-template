@@ -5,7 +5,7 @@
   "autorestart": true,
   "watch": true,
   "ignore_watch": ["node_modules", "media"],
-  "cwd": "<This is the absolute path to your current build>",
+  "cwd": "/var/www/html/current",
   "env": {
     "NODE_ENV": "production"
   }
