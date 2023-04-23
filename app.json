@@ -1,0 +1,12 @@
+{
+  "name": "evershop",
+  "script": "npm run start",
+  "instances": "max",
+  "autorestart": true,
+  "watch": true,
+  "ignore_watch": ["node_modules", "media"],
+  "cwd": "<This is the absolute path to your current build>",
+  "env": {
+    "NODE_ENV": "production"
+  }
+}
