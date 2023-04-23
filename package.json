@@ -4,6 +4,7 @@
     "build": "evershop build"
   },
   "dependencies": {
-    "@evershop/evershop": "^1.0.0-rc.3"
+    "@evershop/evershop": "^1.0.0-rc.3",
+    "react-refresh": "^0.14.0"
   }
 }
